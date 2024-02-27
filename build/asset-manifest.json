@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/VictorKevz/Projects-Page-with-React.git/static/js/main.af6f8c4a.js",
-    "index.html": "/VictorKevz/Projects-Page-with-React.git/index.html",
-    "main.af6f8c4a.js.map": "/VictorKevz/Projects-Page-with-React.git/static/js/main.af6f8c4a.js.map"
+    "main.js": "/My-React-Projects/static/js/main.af6f8c4a.js",
+    "index.html": "/My-React-Projects/index.html",
+    "main.af6f8c4a.js.map": "/My-React-Projects/static/js/main.af6f8c4a.js.map"
   },
   "entrypoints": [
     "static/js/main.af6f8c4a.js"

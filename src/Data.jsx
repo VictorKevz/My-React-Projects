@@ -20,7 +20,7 @@ const Data = [
     title: "FAQs Challenge",
     description: "The Challenge provides a clean and interactive way to present FAQs on a webpage. Users can click toggle buttons to reveal or hide specific FAQ content.",
     imgURL:"images/FAQs.png",
-    link: "https://victorkevz.github.io/Virtual-Drums/"
+    link: "https://victorkevz.github.io/FAQS-Challenge/"
   },
   {
     id: 2,

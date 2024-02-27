@@ -1,7 +1,7 @@
-{
+{  
+  "homepage": "https://victorkevz.github.io/My-React-Projects",
   "name": "mapping-components-practice",
   "version": "1.0.0",
-  "homepage": "https://github.com/VictorKevz/Projects-Page-with-React.git",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
@@ -20,7 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
