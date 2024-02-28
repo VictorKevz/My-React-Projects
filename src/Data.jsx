@@ -20,14 +20,14 @@ const Data = [
     title: "FAQs Challenge",
     description: "The Challenge provides a clean and interactive way to present FAQs on a webpage. Users can click toggle buttons to reveal or hide specific FAQ content.",
     imgURL:"images/FAQs.png",
-    link: "https://victorkevz.github.io
+    link: "https://victorkevz.github.io/FAQS-Challenge/"
   },
   {
     id: 2,
     title: "Virtual Drums",
     description: "A virtual drum kit project where users can play drums by clicking buttons or pressing keys on their keyboard. Enjoy The Drum Kit!",
     imgURL:"images/virtual-drums.png",
-    link: "https://victorkevz.github.io/FAQS-Challenge/"
+    link: "https://victorkevz.github.io/Virtual-Drums/"
 
   },
 ]
