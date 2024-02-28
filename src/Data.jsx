@@ -27,7 +27,7 @@ const Data = [
     title: "Virtual Drums",
     description: "A virtual drum kit project where users can play drums by clicking buttons or pressing keys on their keyboard. Enjoy The Drum Kit!",
     imgURL:"images/virtual-drums.png",
-    link: "https://victorkevz.github.io/Virtual-Drums/"
+    link: "https://victorkevz.github.io/FAQS-Challenge/"
 
   },
 ]
